@@ -1,0 +1,5 @@
+tse;4
+slenex;10
+slenex;11
+clnguss;1
+clnguss;2
